@@ -88,4 +88,8 @@ person.firstName = "Ma";
 console.log(person.firstName);
 person.firstName = "Maximilian";
 console.log(person.firstName);
-console.log(Mymath.calculaArea(23));
+console.log(Mymath.calculaArea(25));
+
+
+
+
